@@ -1,0 +1,1 @@
+ /Users/torder/Documents/GitHub/flutter-calendar-schedulerr/.dart_tool/flutter_build/d4f269c615b9229acad51da8a1373b82/native_assets.yaml: 
